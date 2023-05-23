@@ -1,0 +1,6 @@
+- 프로그래머스
+- PROGRAMMERS
+- https://school.programmers.co.kr/
+- python 코딩테스트 연습문제 study
+- 2023.05.23 ~
+- 매일 커밋 도전 !
