@@ -3,7 +3,7 @@ str = input()
 print(str.swapcase())
 
 
-# 다른 풀이
+# 다른 풀이1
 str = input()
 answer   = ''
 for a in str:
@@ -14,4 +14,5 @@ for a in str:
 print(answer)
 
 
-# 다른 풀이
+# 다른 풀이2
+print(''.join(i.upper() if i == i.lower() else i.lower() for i in input()))
