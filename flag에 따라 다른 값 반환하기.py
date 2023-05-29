@@ -10,7 +10,7 @@ def solution(a, b, flag):
         return a - b
     
 # 다른 풀이
-def solution(a, b, falg):
+def solution(a, b, flag):
     if flag:
         return a + b
     return a - b
