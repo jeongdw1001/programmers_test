@@ -9,12 +9,12 @@ def solution(a, b, flag):
     else:  
         return a - b
     
-# 다른 풀이
+# 다른 풀이 1
 def solution(a, b, flag):
     if flag:
         return a + b
     return a - b
 
-# 다른 풀이2
+# 다른 풀이 2
 def solution(a, b, flag):
     return a + b if flag else a - b
