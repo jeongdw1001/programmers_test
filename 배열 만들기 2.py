@@ -15,3 +15,8 @@ def solution(l, r):
             answer.append(i)
     return answer if answer else [-1]
 
+# Q 활용
+from collections import deque
+
+def solution(l, r):
+    
